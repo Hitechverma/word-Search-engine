@@ -1,0 +1,5 @@
+Application software is a set of one or more programs designed to carry out operations for a specific application. Application software cannot run on itself but is dependent on system software to execute. Examples of application software include MS Word, MS Excel, a console game, a library management system, a spreadsheet system etc. [1]
+
+The term is used to distinguish such software from another type of computer program referred to as system software, which manages and integrates a computer's capabilities but does not directly perform tasks that benefit the user. The system software serves the application, which in turn serves the user.
+
+Examples of types of application software may include accounting software, media players, and office suites. Many application programs deal principally with documents. Applications may be bundled with the computer and its system software or published separately, and may be coded as e.g. proprietary, open-source or university projects.

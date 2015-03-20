@@ -1,0 +1,23 @@
+
+
+Connecting users to services with eduGAIN
+
+Highly anticipated service launches in April
+
+By Josh Howlett, JANET
+
+Enabling easy and convenient access to end users is a key part of delivering a GÉANT service. The service operator does not want the headaches associated with issuing passwords to users, and the user does not want yet another password to add to his/her collection.
+
+Wayne Routly, Security Task Leader for the GÉANT project, describes the problem that he faced when developing the Virtual Security Team Knowledge Base. “We needed access to the Knowledge Base to be secure, but it also needed to be easy to use for authorised users, in order to promote adoption and use.”
+
+Enter the eduGAIN service. eduGAIN provides GÉANT services with a common authentication and authorisation system. Currently operating as a pilot, it now has thirteen NRENs involved, and will move to production at the end of April.
+
+Valter Nordh, eduGAIN Task Leader, explains that developing the eduGAIN service has been a major challenge. “The eduGAIN service has been constructed by connecting together the NRENs’ own identify federations. There are significant technical and policy differences between these federations, so finding consensus has not always been easy. However, the pilot service has been critical in identifying and resolving most of these issues, so we are confident that we can now deliver a useful system for the project’s own services and other non-project services connected to the partners’ own federations.”
+
+Wayne expresses similar optimism. “We have been using eduGAIN for six months and are very satisfied with it.” he says.
+
+The eduGAIN pilot service also includes the GÉANT Identity Provider (GIdP), which can issue credentials to users who are not associated with any of the identity federations within the eduGAIN service (for example, if their NREN does not yet operate an identity federation).
+
+Otto Kreiter, Service Introduction Manager adds, "The GIdP integration into eduGAIN has shown NRENs not currently in the eduGAIN pilot the true potential of this service. This is something showing real practical application of a Pan-European authentication and authorisation infrastructure, enabling authentication from 15 NRENs to a multi-domain system".
+
+For more information, see:

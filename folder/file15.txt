@@ -1,0 +1,4 @@
+ The Galaxy Nexus, capable of web browsing, e-mail access, video playback, document editing, image editing, among many other tasks common on smartphones. A smartphone is a tool of mobile computing.
+Telxon PTC-710 is a 16-bit mobile computer PTC-710 with MP 830-42 microprinter 42-column version.
+
+Mobile computing is human–computer interaction by which a computer is expected to be transported during normal usage. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication issues include ad hoc and infrastructure networks as well as communication properties, protocols, data formats and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.
